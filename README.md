@@ -4,7 +4,7 @@ Explore a captivating text-based world where you can move between rooms, uncover
 
 The game is implemented in Java, utilizing fundamental object oriented programming concepts like inheritance, encapsulation, abstraction, and polymorphism. The game has been tested for bugs and the code has been optimized for efficiency.
 
-*This game is an inspiration from the game series "Zork".*
+*This game is an inspiration from the game series "Zork".
 
 # Technical Details
 
